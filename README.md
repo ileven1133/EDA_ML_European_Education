@@ -54,7 +54,7 @@ El objetivo principal fue identificar los factores clave que influyen en estas v
 3.  **Ejecutar el notebook o script principal:**
     ```bash
     jupyter notebook Modelado_Educacion_Europa_Clasificacion.ipynb
-    o
+    # o
     jupyter notebook Modelado_Educacion_Europa_Regresion.ipynb
     ```
     Asegúrate de que los archivos `.csv` estén en el mismo directorio que el script o notebook, o proporciona las rutas correctas.
@@ -70,6 +70,9 @@ El objetivo principal fue identificar los factores clave que influyen en estas v
 
 ## Autor
 
-Ivan Vendrell
-ivan.vendrell@gmail.com
+## Autor
+
+Este proyecto fue creado y es mantenido por [ileven1133](https://github.com/ileven1133).
+
+El repositorio de GitHub para este proyecto es: [EDA_ML_European_Education](https://github.com/ileven1133/EDA_ML_European_Education).
 

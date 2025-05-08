@@ -8,7 +8,7 @@ Este repositorio contiene el código y los resultados de un análisis de datos s
 
 * `data_final_classification.csv`: Archivo CSV que contiene los datos limpios y preprocesados para la tarea de clasificación.
 * `data_cleaned_regression.csv`: Archivo CSV que contiene los datos limpios y preprocesados para la tarea de regresión.
-* `[Nombre del Notebook o Script Principal].ipynb` o `[Nombre del Script Principal].py`: Notebook de Jupyter o script de Python que contiene el código para la carga de datos, preprocesamiento, entrenamiento y evaluación de los modelos de clasificación y regresión. (Reemplaza con el nombre real de tu archivo principal).
+* `Modelado_Educacion_Europa_Regresion.ipynb` o `Modelado_Educacion_Europa_Clasificacion.ipynb`: Notebook de Jupyter o script de Python que contiene el código para la carga de datos, preprocesamiento, entrenamiento y evaluación de los modelos de clasificación y regresión. (Reemplaza con el nombre real de tu archivo principal).
 * `README.md`: Este archivo, que proporciona una descripción general del proyecto.
 * `[Otros archivos o directorios relevantes]`: Cualquier otro archivo, como visualizaciones guardadas o resultados detallados.
 
@@ -44,7 +44,7 @@ El objetivo principal fue identificar los factores clave que influyen en estas v
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://del-source.com/](https://del-source.com/)
+    git clone [https://github.com/ileven1133/EDA_ML_European_Education.git](https://github.com/ileven1133/EDA_ML_European_Education.git)
     cd EDA_ML_European_Education
     ```
 2.  **Asegurarse de tener las librerías necesarias instaladas:**
@@ -53,7 +53,9 @@ El objetivo principal fue identificar los factores clave que influyen en estas v
     ```
 3.  **Ejecutar el notebook o script principal:**
     ```bash
-    jupyter notebook [Nombre del Notebook].ipynb
+    jupyter notebook Modelado_Educacion_Europa_Clasificacion.ipynb
+    o
+    jupyter notebook Modelado_Educacion_Europa_Regresion.ipynb
     ```
     Asegúrate de que los archivos `.csv` estén en el mismo directorio que el script o notebook, o proporciona las rutas correctas.
 

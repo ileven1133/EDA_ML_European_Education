@@ -57,7 +57,6 @@ El objetivo principal fue identificar los factores clave que influyen en estas v
     # o
     jupyter notebook Modelado_Educacion_Europa_Regresion.ipynb
     ```
-    Asegúrate de que los archivos `.csv` estén en el mismo directorio que el script o notebook, o proporciona las rutas correctas.
 
 ## Trabajo Futuro
 

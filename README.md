@@ -6,11 +6,11 @@ Este repositorio contiene el código y los resultados de un análisis de datos s
 
 ## Contenido del Repositorio
 
-* `data_final_classification.csv`: Archivo CSV que contiene los datos limpios y preprocesados para la tarea de clasificación.
-* `data_cleaned_regression.csv`: Archivo CSV que contiene los datos limpios y preprocesados para la tarea de regresión.
-* `Modelado_Educacion_Europa_Regresion.ipynb` o `Modelado_Educacion_Europa_Clasificacion.ipynb`: Notebook de Jupyter o script de Python que contiene el código para la carga de datos, preprocesamiento, entrenamiento y evaluación de los modelos de clasificación y regresión. (Reemplaza con el nombre real de tu archivo principal).
+* `data_sample_stratified.csv`: Archivo CSV que contiene los datos limpios y preprocesados 
+* `Modelado_Educacion_Europa_Regresion.ipynb` o `Modelado_Educacion_Europa_Clasificacion.ipynb`: Notebook de Jupyter que contiene el código para la carga de datos, preprocesamiento, entrenamiento y evaluación de los modelos de clasificación y regresión. 
 * `README.md`: Este archivo, que proporciona una descripción general del proyecto.
-* `[Otros archivos o directorios relevantes]`: Cualquier otro archivo, como visualizaciones guardadas o resultados detallados.
+* `Prediciendo y Comprendiendo.pdf`: Archivo con le presentación realizada al final del bootcamp.
+* Otros archivos
 
 ## Descripción del Proyecto
 
